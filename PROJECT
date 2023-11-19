@@ -1,0 +1,5 @@
+#include<stdio.h>
+{
+printf("Welcome to the project");
+return 0;
+}
